@@ -2,11 +2,11 @@
 
 # Express.js Syllabus <small>notes</small>
 
-> From basic CRUD to JSON, middleware, auth & password hashing.
+> Learn Express by building one complete project — a Task Manager API.
 
-- 9 chapters, every checklist topic explained with runnable code
-- Built for revision — search, copy-paste snippets, and a tick-off checklist
-- PostgreSQL checklist follows separately
+- Start with a plain in‑memory CRUD, then add a database, then auth
+- Every syllabus concept taught at the moment the project needs it
+- 12 sequential build steps · full copy‑paste code · 3 runnable snapshots
 
 [Get Started](README.md)
-[Checklist](checklist.md)
+[Syllabus coverage](checklist.md)
